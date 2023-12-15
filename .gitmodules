@@ -1,0 +1,3 @@
+[submodule "emberling-artwork"]
+	path = emberling-artwork
+	url = ./emberling-artwork/
