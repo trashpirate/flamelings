@@ -1,3 +1,3 @@
-[submodule "emberling-artwork"]
-	path = emberling-artwork
-	url = https://github.com/trashpirate/emberling-artwork
+[submodule "flamelings-artwork"]
+	path = flamelings-artwork
+	url = https://github.com/trashpirate/flamelings-artwork
