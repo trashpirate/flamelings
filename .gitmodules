@@ -1,3 +1,6 @@
 [submodule "flamelings-artwork"]
 	path = flamelings-artwork
 	url = https://github.com/trashpirate/flamelings-artwork.git
+[submodule "flamelings-smart-contracts"]
+	path = flamelings-smart-contracts
+	url = https://github.com/trashpirate/flamelings-smart-contracts.git
