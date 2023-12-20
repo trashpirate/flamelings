@@ -4,3 +4,6 @@
 [submodule "flamelings-smart-contracts"]
 	path = flamelings-smart-contracts
 	url = https://github.com/trashpirate/flamelings-smart-contracts.git
+[submodule "flamelings-frontend"]
+	path = flamelings-frontend
+	url = https://github.com/trashpirate/flamelings-frontend.git
