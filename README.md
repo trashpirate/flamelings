@@ -38,7 +38,9 @@
 
 ## About The Project
 
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
+![Flamelings](https://flame.buyholdearn.com/preview.jpeg?raw=true)
+
+<!-- <img src="https://flame.buyholdearn.com/preview.jpeg" alt="Flamelings" style="width:200px;"/> -->
 
 This repository contains the code for an NFT collection consisting of 1000 unique AI-generated images known as "Flamelings." These flame creatures come with five different traits of varying rarity: WHITE (790), BLUE (100), YELLOW (80), RED (20), and NOVA (10). The repo includes code for generating the collection for upload on [IPFS](https://ipfs.tech/), for testing and deploying the NFT smart contracts, and the frontend for the minting dapp.
 
